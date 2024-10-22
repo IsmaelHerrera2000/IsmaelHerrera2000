@@ -24,4 +24,3 @@
   
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelHerrera2000&layout=compact&theme=tokyonight)
