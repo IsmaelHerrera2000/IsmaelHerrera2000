@@ -20,8 +20,7 @@
 <hr />
 
 ### GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IsmaelHerrera2000&show_icons=true&theme=tokyonight"/>
-  
-<hr />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IsmaelHerrera2000&show_icons=true&theme=dark"/>
+ 
 
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelHerrera2000&layout=compact&theme=tokyonight) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelHerrera2000&layout=compact&theme=dark)
